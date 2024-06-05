@@ -1,6 +1,5 @@
 ---
-title: LLMsIntro
-emoji: 🏃
+title: Simple Question and answer chat bot application
 colorFrom: green
 colorTo: purple
 sdk: streamlit
