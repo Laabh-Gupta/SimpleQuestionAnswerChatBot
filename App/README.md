@@ -1,11 +1,8 @@
 ---
 title: Simple Question and answer chat bot application
-colorFrom: green
-colorTo: purple
 sdk: streamlit
 sdk_version: 1.21.0
 app_file: app.py
-pinned: false
 ---
 
 Check out the configuration reference at
